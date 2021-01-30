@@ -48,9 +48,7 @@
 * 610510800 JULANON SAYAMON
 * 600510562 PIYATHIDA RUANSON
 
-<p align="center">
-  <img src="https://www.img.in.th/images/643180fa1fedcbc952715a7472568b50.jpg"/>
-</p>
+![Poster](Poster.jpg "Poster")
 
 
 
