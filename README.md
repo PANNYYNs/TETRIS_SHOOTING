@@ -26,4 +26,8 @@
 
 - ระบบเข้าสู้มินิเกม 
   - เมื่อเราเก็บ Star ได้มันจะนำเราเข้าไปสู่มินิเกมที่ซ่อนเอาไว้
+  
+<p align="center">
+  <img src="https://www.img.in.th/images/65d6989d7eb42f2ffded61698b862cf8.jpg"/>
+</p>
 
