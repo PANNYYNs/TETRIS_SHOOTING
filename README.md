@@ -13,8 +13,14 @@
   <img src="https://www.img.in.th/images/5ef8266cbe20fd27ad9e8560a46d35e1.jpg"/>
 </p>
 
+## วิธีเล่นเกม
+  - การบังคับยาน
+     - A เคลื่อนที่ปทางซ้าย
+    - D เคลื่อนที่ไปทางขวา
+    - Space bar ยิง
+
 - ระบบพลังชีวิต 
-    - ทางด้านบนซ้าย จะเป็นพลังชีวิตของเรา 
+    - ทางด้านบนซ้าย จะเป็นพลังชีวิตของเรา โดยจะมีพลังชีวิตเริ่มต้นที่ 3 ชีวิต
 <p align="center">
   <img src="https://www.img.in.th/images/413b82bae15a4f95c5232fccc60b493b.jpg"/>
 </p>
@@ -30,4 +36,12 @@
 <p align="center">
   <img src="https://www.img.in.th/images/65d6989d7eb42f2ffded61698b862cf8.jpg"/>
 </p>
+
+<p align="center">
+  <img src="https://www.img.in.th/images/fc70ccaba4e8e23fef8119da9f4b2334.jpg"/>
+</p>
+
+
+
+
 
